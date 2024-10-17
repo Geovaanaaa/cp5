@@ -1,0 +1,12 @@
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.bg-light {
+    background-color: #F4F5F9 !important;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
